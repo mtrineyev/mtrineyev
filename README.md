@@ -27,5 +27,5 @@ My focus is leading **HearMe**: an AI-powered mobile application designed to und
 I'm always open to connecting with people passionate about AI, assistive tech, or creating social impact.
 
 * **Email:** mt@hearme.tech
-* **LinkedIn:** [mtrineiev](www.linkedin.com/in/mtrineiev)
+* **LinkedIn:** [mtrineiev](https://linkedin.com/in/mtrineiev)
 * **Project Website:** [hearme.tech](https://hearme.tech)
