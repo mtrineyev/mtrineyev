@@ -1,6 +1,6 @@
 # Hi, I’m Maksym Trineiev 👋
 
-### Founder & CEO at [HearMe](github.com/HearMeTech)
+### Founder & CEO at [HearMe](https://github.com/HearMeTech)
 
 I am a Python developer and tech founder driven by a deeply personal mission: **to give everyone the power to be heard.**
 
